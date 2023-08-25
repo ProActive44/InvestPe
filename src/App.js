@@ -7,6 +7,7 @@ import WorkWithUs from "./Components/WorkWithUs";
 import PlatFinance from "./Components/PlatFinance";
 import Features from "./Components/Features";
 import Solution from "./Components/Solution";
+import Partners from "./Components/Partners";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Features/>
       <PlatFinance/>
       <Solution/>
+      <Partners/>
       <WorkWithUs/>
       <Footer/>
     </div>

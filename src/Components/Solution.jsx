@@ -1,4 +1,4 @@
-import { Box, Image, Text } from '@chakra-ui/react';
+import { Box, Divider, Image, Text } from '@chakra-ui/react';
 import React from 'react';
 import Sense from '../Images/Sense.svg'
 import dashboard from '../Images/Dashboard.png'
@@ -72,6 +72,7 @@ const Solution = () => {
                     </Box>
                 </Box>
             </Box>
+            <Divider/>
         </Box>
     );
 };
