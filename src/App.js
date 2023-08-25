@@ -6,6 +6,7 @@ import Footer from "./Components/Footer";
 import WorkWithUs from "./Components/WorkWithUs";
 import PlatFinance from "./Components/PlatFinance";
 import Features from "./Components/Features";
+import Solution from "./Components/Solution";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <First/>
       <Features/>
       <PlatFinance/>
+      <Solution/>
       <WorkWithUs/>
       <Footer/>
     </div>
