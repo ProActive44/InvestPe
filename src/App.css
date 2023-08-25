@@ -3,6 +3,7 @@
   font-family: 'Inter', sans-serif;
   max-width: 1400px;
   margin: auto;
+  overflow: hidden;
 }
 
 .intersted{
